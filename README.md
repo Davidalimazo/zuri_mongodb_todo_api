@@ -1,6 +1,6 @@
 # zuri_mongodb_todo_api
 zuri mongodb todo api
-to run the project run npm install to install all the relevan depebdencies
+to run the project run npm install to install all the relevant depebdencies, create a .env file and added your own mongodb connection string and port
 then run "npm run dev" to start the project
 #project route
 
